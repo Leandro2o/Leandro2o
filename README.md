@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Me chamo Leandro Carlos.
 
-<!--
-**Leandro2o/Leandro2o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Futuro GameDev.
+- 🌱 Estudando CSharp e Lua.
+- 😁 Pronomes: C/Sharp
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro2o&show=reviews&show_icons=true&theme=merko&include_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro2o&layout=compact&langs_count=16&theme=merko"/>
+</div>
+<div style="display: inline_block"><br>
+  
+</div>
